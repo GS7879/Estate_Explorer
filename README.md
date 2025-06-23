@@ -1,4 +1,5 @@
-# Estate_Explorer is an intelligent and interactive Streamlit app that guides users from raw real estate data ➔ to actionable insights and recommendations. It encapsulates the complete Data Science lifecycle — from data collection and pre-processing (missing value imputation, outlier detection, feature engineering) to model building (price prediction) and advanced analytics (trend analysis, property recommendations). This project showcases proficiency in data wrangling, statistical analysis, machine learning, and application deployment.
+# 
+Estate_Explorer is an intelligent and interactive Streamlit app that guides users from raw real estate data ➔ to actionable insights and recommendations. It encapsulates the complete Data Science lifecycle — from data collection and pre-processing  to model building (price prediction) and advanced analytics . This project showcases proficiency in data wrangling, statistical analysis, machine learning, and application deployment.
 
 ⚡️ Features
 ✅ Data Cleaning & Pre‑Processing
